@@ -1,11 +1,8 @@
 import { useState } from 'react'
 import './App.css'
 /** 
-  {
-    shoppingItemName: '',
-    purchased: false,
-  })
-    */
+ Video resurs: https://www.youtube.com/watch?v=azS1HRI_5zM
+*/
 
 function App() {
   const [shoppingList, setShoppingList] = useState([])
